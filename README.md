@@ -5,7 +5,7 @@ Data Analyst & ML Enthusiast with hands-on experience in **Power BI**, **Python*
 
 - 🔭 Currently working on: **Auto Subtitle Generation** using OpenAI Whisper & WhisperX
 - 🏆 Achievements: **Rank 158** (Top 3.5%) in Kaggle Hull Tactical Competition | **₹124.6M** Power BI Analytics Dashboard
-- 💼 Recent Internship: **Power BI & ML Intern** at Oaz Shakti (Nov 2025 - Jan 2026)
+- 💼 Recent Internship: **Machine Learning / Power BI Intern** at Oaz Shakti (Nov 2025 - present)
 - 📊 Specialized in: Business Intelligence, Data Visualization, Machine Learning, NLP
 - 📝 Published: Research paper on Customer Segmentation (IJNRD)
 - 🌱 Learning: Advanced ML models, WhisperX optimization, Data Engineering
