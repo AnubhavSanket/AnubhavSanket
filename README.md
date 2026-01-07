@@ -55,11 +55,16 @@ Data Analyst & ML Enthusiast with hands-on experience in **Power BI**, **Python*
 - 📝 **Published Research** - Customer Segmentation (IJNRD)
 - 🎯 **Google Tunix Hackathon** - Participant (2025)
 
-  ## 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnubhavSanket&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnubhavSanket&theme=radical" alt="GitHub Profile Summary"/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavSanket&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnubhavSanket&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnubhavSanket&theme=radical" alt="Top Languages"/>
+</div>
 
 ##  Let's Connect!
 
