@@ -1,6 +1,6 @@
 # Hi there, I'm Anubhav Sanket 👋
 
-## 🚀 About Me
+##  About Me
 Data Analyst & ML Enthusiast with hands-on experience in **Power BI**, **Python**, and **Machine Learning**. Currently building intelligent solutions and competing in Kaggle competitions.
 
 - 🔭 Currently working on: **Auto Subtitle Generation** using OpenAI Whisper & WhisperX
@@ -10,7 +10,7 @@ Data Analyst & ML Enthusiast with hands-on experience in **Power BI**, **Python*
 - 📝 Published: Research paper on Customer Segmentation (IJNRD)
 - 🌱 Learning: Advanced ML models, WhisperX optimization, Data Engineering
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Data Analytics & BI:**
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -28,13 +28,7 @@ Data Analyst & ML Enthusiast with hands-on experience in **Power BI**, **Python*
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnubhavSanket&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnubhavSanket&layout=compact&theme=radical)
-
-## 🏆 Featured Projects
+##  Featured Projects
 
 ### 📊 Electrical Shop Analytics Dashboard (Oaz Shakti)
 - Analyzed **24K+ transactions** worth **₹124.6M**
@@ -42,26 +36,26 @@ Data Analyst & ML Enthusiast with hands-on experience in **Power BI**, **Python*
 - Identified **₹8.4M in overdue payments**
 - **Tech:** Power BI, DAX, Power Query, Python
 
-### 🎤 Auto Subtitle Generation (Ongoing)
+###  Auto Subtitle Generation (Ongoing)
 - Implementing OpenAI Whisper & WhisperX for subtitle generation
 - Experimenting with accuracy improvements
 - **Tech:** Python, OpenAI Whisper, WhisperX, NLP
 
-### 📰 Fake News Detection
+###  Fake News Detection
 - ML model to detect fake news articles
 - **Tech:** Python, NLP, Machine Learning
 
-### 👥 Customer Segmentation (Published)
+###  Customer Segmentation (Published)
 - K-Means clustering for customer analysis
 - Published in IJNRD journal
 - **Tech:** Python, scikit-learn, Pandas
 
-## 🏅 Achievements & Competitions
+##  Achievements & Competitions
 - 🥇 **Rank 158** - Kaggle Hull Tactical Asset Allocation Competition (Top 200)
 - 📝 **Published Research** - Customer Segmentation (IJNRD)
 - 🎯 **Google Tunix Hackathon** - Participant (2025)
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhavsanket4)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/anubhavsanket)
