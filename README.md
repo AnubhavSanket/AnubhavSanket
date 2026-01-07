@@ -51,7 +51,7 @@ Data Analyst & ML Enthusiast with hands-on experience in **Power BI**, **Python*
 - **Tech:** Python, scikit-learn, Pandas
 
 ##  Achievements & Competitions
-- 🥇 **Rank 158** - Kaggle Hull Tactical Asset Allocation Competition (Top 200)
+- 🥇 **Rank 158/4,506 (Top 3.5%)** - Kaggle Hull Tactical Asset Allocation Competition ($100K Prize Pool)
 - 📝 **Published Research** - Customer Segmentation (IJNRD)
 - 🎯 **Google Tunix Hackathon** - Participant (2025)
 
